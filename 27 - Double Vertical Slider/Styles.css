@@ -62,7 +62,7 @@ body {
     width: 100%;
 }
 
-button {
+.btn {
     background-color: #fff;
     border: none;
     color: #aaa;
